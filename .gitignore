@@ -93,3 +93,4 @@ linux/Flutter/ephemeral/
 *.tmp
 *.swp
 .DS_Store
+.metadata
