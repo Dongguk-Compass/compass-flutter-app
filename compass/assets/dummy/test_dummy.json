@@ -1,3 +1,12 @@
 {
-  "value": "1246"
+  "value": "1246",
+
+  "selectedYear": "2020",
+  "userChecklistStatus": {
+    "졸업 논문 심사": true,
+    "최소 전공 이수 63학점": true,
+    "최소 종합 이수 130학점": true,
+    "인성교육 이수 4학점": true,
+    "평점 평균 2.8점": true
+  }
 }
